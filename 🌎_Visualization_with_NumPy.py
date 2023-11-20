@@ -29,7 +29,7 @@ st.markdown("Welcome to our charming Airbnb! We're thrilled to introduce you to 
 import streamlit as st
 import webbrowser
 
-st.sidebar.button("An edit by Danush Khanna", on_click=lambda: webbrowser.open_new_tab("https://www.linkedin.com/in/danush-khanna-ba4240239/"))
+st.sidebar.button("An edit by Robin Robert", on_click=lambda: webbrowser.open_new_tab("https://www.linkedin.com/in/robin-robert-59b965224/"))
 
 
 # Read dataframe
